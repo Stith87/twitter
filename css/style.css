@@ -1,0 +1,21 @@
+
+.tweet{
+	width: auto;
+	max-width: 90%;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+	box-shadow: 0px 0px 5px #ccc;
+}
+
+.screen-name{
+	font-size: 18px;
+	margin: 10px;
+}
+
+.text {
+	margin: 10px;
+}
+
+#myChart{
+	max-height:400px;
+}
